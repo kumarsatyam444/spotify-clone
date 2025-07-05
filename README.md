@@ -116,23 +116,21 @@ Add your production URL for deployment
 Set Environment Variables
 
 REACT_APP_SPOTIFY_CLIENT_ID=your_client_id_here
+
 REACT_APP_SPOTIFY_CLIENT_SECRET=your_client_secret_here
+
 REACT_APP_REDIRECT_URI=http://localhost:3000/callback
 
 🙏 Acknowledgments
+
 Spotify for the amazing design inspiration
 React Team for the incredible framework
 Redux Team for excellent state management
 Tailwind CSS for the utility-first approach
 Open Source Community for the amazing libraries
 Contributors who help improve this project
-📊 Project Stats
 
-🔗 Links
-Repository: GitHub
-Live Demo: Vercel
-Documentation: Wiki
-Author: Kumar Satyam
+
 Made with ❤️ by Kumar Satyam
 
 If you found this project helpful, please consider giving it a ⭐!
